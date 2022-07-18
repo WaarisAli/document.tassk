@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.top_section {
+    background-color: darkblue;
+    height: 40px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ } 
+.top_section .top_txt {
+    color: white;
+    font-size: 15px;
+    font-family: 'Kanit', sans-serif;
+}
